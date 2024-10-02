@@ -1,4 +1,4 @@
-##About
+About
 - A web applcation that uses Groq llama3.2-vision-preview and eden interact with images.
 - This is a fork of https://github.com/Tech-Watt/How-to-setup-LLAMA3.2.git 
 
